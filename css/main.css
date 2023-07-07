@@ -244,7 +244,7 @@ html, body {
 }
 .header__title em {
    font-style: normal;
-   color: var(--pupule);
+   color: var(--title-1);
 }
 .header__text {
    margin-bottom: 40px;
